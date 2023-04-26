@@ -21,4 +21,4 @@ _iejdiejde_
 
 [chat](https://chat.openai.com)
 
-! [picture](https://www.wallpaperbetter.com/ru/hd-wallpaper-nnjej)
+![picture](https://www.wallpaperbetter.com/ru/hd-wallpaper-nnjej)
