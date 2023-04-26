@@ -7,6 +7,6 @@
 - dfdf
 - dfdfdf
 
-1.test
-2.test
-3.gsgsgsdg
+1. test
+2. test
+3. gsgsgsdg
