@@ -19,4 +19,4 @@ __nuededed__
 _iejdiejde_
 
 
-[chat](https://chat.openai.com 
+[chat](https://chat.openai.com)
