@@ -21,4 +21,4 @@ _iejdiejde_
 
 [chat](https://chat.openai.com)
 
-![picture](https://ru.wallpaper.mob.org/image/vehicles-bugatti_veyron-bugatti-car-purple-330377.html)
+![picture](https://ru.wikipedia.org/wiki/JPEG#/media/%D0%A4%D0%B0%D0%B9%D0%BB:JPEG_example_down.jpg)
