@@ -1,6 +1,6 @@
-# nurlan89 #
-## redhat ##
-### rhel  ###
+# nurlan89 
+## redhat 
+### rhel  
 
 
 - ntcn
@@ -12,11 +12,11 @@
 3. gsgsgsdg
 
 
-**nufrff**   ** **
-__nuededed__ __ __
+**nufrff**
+__nuededed__
 
-*njended* * *
-_iejdiejde_ _ _
+*njended*
+_iejdiejde_
 
 
-[chat](https://chat.openai.com   # [] ()
+[chat](https://chat.openai.com 
