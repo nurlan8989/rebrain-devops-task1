@@ -1,4 +1,4 @@
-<font color="blue"># nurlan89</font>
+<font color="blue">nurlan89</font>
 ## redhat 
 ### rhel  
 
