@@ -1,4 +1,4 @@
- # nurlan89 `#RRGGBB`
+ # nurlan89 
 ## redhat 
 ### rhel  
 
@@ -22,3 +22,5 @@ _iejdiejde_
 [chat](https://chat.openai.com)
 
 ![picture](https://www.wallpaperbetter.com/ru/hd-wallpaper-nnjej)
+
+`#0969DA`
