@@ -23,4 +23,4 @@ _iejdiejde_
 
 ![picture](https://www.wallpaperbetter.com/ru/hd-wallpaper-nnjej)
 
-`#0969DA`
+`#RRGGBB`
