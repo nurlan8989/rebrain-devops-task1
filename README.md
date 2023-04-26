@@ -17,3 +17,6 @@ __nuededed__
 
 *njended*
 _iejdiejde_
+
+
+[chat](https://chat.openai.com/)
